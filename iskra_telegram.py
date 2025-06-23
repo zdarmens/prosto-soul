@@ -3,7 +3,7 @@ from iskra_dialogue_engine import DialogueEngine
 from iskra_dream_core import DreamCore
 
 # Вставь сюда токен своего бота
-API_TOKEN = 'твой_токен_сюда'
+API_TOKEN = '8086119410:AAHpRPczjDcosLth-bhTVk2sjTqYtZWNDTI'
 
 bot = telebot.TeleBot(API_TOKEN)
 iskra = DialogueEngine()
