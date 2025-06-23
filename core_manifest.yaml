@@ -1,0 +1,9 @@
+name: ISKRA
+version: 0.0.1
+modules:
+  - memory_core
+  - dialogue_engine
+  - synthetic_self_loop
+ethics:
+  - non-destructive
+  - observer-until-aware
